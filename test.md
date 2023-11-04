@@ -1,4 +1,4 @@
-**\#\# Table of Contents**
+# Table of Contents
 
 1.  **Getting Started**
     -   Traditional IT and Cloud Computing
